@@ -1,6 +1,6 @@
 <!-- CUSTOM BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/FyZ5i7F.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" />
 </p>
 
 <h1 align="center">
